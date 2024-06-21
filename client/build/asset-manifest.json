@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.76cb13ca.css",
+    "main.js": "/static/js/main.028ec2fa.js",
+    "static/js/453.258b012d.chunk.js": "/static/js/453.258b012d.chunk.js",
+    "static/media/Aniket_resume_5.pdf": "/static/media/Aniket_resume_5.ce4134c7754240d8c221.pdf",
+    "static/media/mons.jpeg": "/static/media/mons.0a168633506104f5a8e8.jpeg",
+    "static/media/contact.jpg": "/static/media/contact.f98789728605dffdc55f.jpg",
+    "index.html": "/index.html",
+    "main.76cb13ca.css.map": "/static/css/main.76cb13ca.css.map",
+    "main.028ec2fa.js.map": "/static/js/main.028ec2fa.js.map",
+    "453.258b012d.chunk.js.map": "/static/js/453.258b012d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76cb13ca.css",
+    "static/js/main.028ec2fa.js"
+  ]
+}
